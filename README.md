@@ -14,9 +14,10 @@ Welcome to the official Valorant game landing page repository. This project show
 - Real-time Information: Display of trending status and game modes.
 
 # Installation
-To use this project, simply clone the repository and open the index.html file in your web browser.
 
-``bash
+To use this project, simply clone the repository and open the `index.html` file in your web browser.
+
+```bash
 git clone https://github.com/yourusername/valorant-landing-page.git
 cd valorant-landing-page
 open index.html

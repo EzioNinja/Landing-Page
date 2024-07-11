@@ -2,7 +2,7 @@
 Welcome to the official Valorant game landing page repository. This project showcases a beautiful and interactive landing page for the popular tactical first-person shooter game, Valorant, by Riot Games.
 
 # Demo
-<a href="https://converttempnow.netlify.app/">
+<a href="https://valorantarena.netlify.app/">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 
